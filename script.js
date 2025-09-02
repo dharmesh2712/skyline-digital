@@ -483,7 +483,7 @@ document.addEventListener("DOMContentLoaded", function () {
     title.classList.add("reveal-text");
   });
 
-  revealText();
+  // revealText();
 
   // Continuously create new particles
   setInterval(createParticles, 10000);
